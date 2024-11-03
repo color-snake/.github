@@ -9,9 +9,8 @@ YOUR ONE STOP SHOP FOR COLOR
 
 ---
 
-## Where can you find Color Snake
+### Where can you find Color Snake?
 
-**Social Public:**
 
 Color Snake Webpage
 https://color-snake.neocities.org/
@@ -23,19 +22,20 @@ https://codepen.io/collection/rxRYvP
 Color Snake Mastodon
 https://mastodon.design/@color
 
+---
 
-**Gitlab**
-
-Color Snake Web Playground
-https://gitlab.com/sleet-dev/sleetsun/color-snake
-
-Color Snake Obsidian Vault (Where I organize colors and color palettes)
-https://gitlab.com/myobsidianvaults/color-snake
+### color snake projects
 
 
+**colorsnake_web_playground**
+(web playground for color snake)
+https://github.com/color-snake/colorsnake_web_playground
 
-Color Snake Color Picker Desktop (Me just quickly packaging with electron, not working on releasing, but you can build yourself!)
-https://gitlab.com/the-sunshining/sun-electron/colorsnake
+**colorsnake_electron**
+deskop color picker app
+
+**colorsnake_obsidian**
+obsidian vault for organizing colors and color palettes
 
 
 
