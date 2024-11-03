@@ -4,7 +4,7 @@
 YOUR ONE STOP SHOP FOR COLOR
 
 
-> COLOR SNAKE is a playground project by THE SUNSHINING & NATHAN RENFROE
+> COLOR SNAKE is a playground project by NATHAN RENFROE & THE SUNSHINING
 
 
 ---
@@ -32,10 +32,11 @@ https://github.com/color-snake/colorsnake_web_playground
 
 **colorsnake_electron**
 deskop color picker app
+https://github.com/color-snake/colorsnake_electron
 
 **colorsnake_obsidian**
 obsidian vault for organizing colors and color palettes
-
+https://github.com/color-snake/colorsnake_obsidian
 
 
 
