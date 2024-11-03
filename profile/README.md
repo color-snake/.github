@@ -1,6 +1,6 @@
 ![Banner](CS_BANNER_300_COLOR_ONE.png)
 
-# Color Snake
+# COLOR SNAKE
 YOUR ONE STOP SHOP FOR COLOR
 
 
@@ -9,17 +9,16 @@ YOUR ONE STOP SHOP FOR COLOR
 
 ---
 
-### Where can you find Color Snake?
+### where can you find color snake?
 
-
-Color Snake Webpage
+color snake webpage
 https://color-snake.neocities.org/
 
-Color Snake Codepen
-https://codepen.io/collection/rxRYvP
+color snake codepen
+https://codepen.io/collection/rxryvp
 
 
-Color Snake Mastodon
+color snake mastodon
 https://mastodon.design/@color
 
 ---
