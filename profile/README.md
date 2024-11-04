@@ -31,11 +31,11 @@ https://mastodon.design/@color
 https://github.com/color-snake/colorsnake_web_playground
 
 **colorsnake_electron**
-deskop color picker app
+(deskop color picker app)
 https://github.com/color-snake/colorsnake_electron
 
 **colorsnake_obsidian**
-obsidian vault for organizing colors and color palettes
+(obsidian vault for organizing colors and color palettes)
 https://github.com/color-snake/colorsnake_obsidian
 
 
