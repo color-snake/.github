@@ -16,7 +16,7 @@ obsidian vault for organizing colors and color palettes
 
 CLI?
 
-**colorsnake_cli_python**
+**colorsnake_cli**
 python cli color picker
 
 **colorsnake_cli_go**
