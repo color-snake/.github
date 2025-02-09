@@ -12,14 +12,26 @@ YOUR ONE STOP SHOP FOR COLOR
 ### where can you find color snake?
 
 color snake webpage
+<br/>
 https://color-snake.neocities.org/
 
 color snake codepen
+<br/>
 https://codepen.io/collection/rxryvp
 
 
 color snake mastodon
+<br/>
 https://mastodon.design/@color
+
+color snake near social
+<br/>
+https://colorsnake.near.social/
+
+
+color snake on chain
+<br/>
+https://colorsnake.near.page/
 
 ---
 
@@ -27,19 +39,30 @@ https://mastodon.design/@color
 
 
 **colorsnake_web_playground**
+<br/>
 (web playground for color snake)
-https://github.com/color-snake/colorsnake_web_playground
+<br/>
+https://github.com/color-snake/
+colorsnake_web_playground
 
 **colorsnake_electron**
+<br/>
 (deskop color picker app)
+<br/>
 https://github.com/color-snake/colorsnake_electron
 
 **colorsnake_obsidian**
+<br/>
 (obsidian vault for organizing colors and color palettes)
+<br/>
 https://github.com/color-snake/colorsnake_obsidian
 
 
-
+**colorsnake_on-chain**
+<br/>
+(color palettes on chain)
+<br/>
+https://github.com/color-snake/colorsnake_on-chain
 
 
 
