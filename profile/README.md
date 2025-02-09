@@ -42,8 +42,7 @@ https://colorsnake.near.page/
 <br/>
 (web playground for color snake)
 <br/>
-https://github.com/color-snake/
-colorsnake_web_playground
+https://github.com/color-snake/colorsnake_web_playground
 
 **colorsnake_electron**
 <br/>
